@@ -1,2 +1,3 @@
 This is file Foo.
 Playing around with git repositories.
+Adding something here
