@@ -1,3 +1,5 @@
+This change is made in branch2
+
 this is the bar file.
 Testing.... 123.
 Another line in here
